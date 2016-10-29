@@ -1,0 +1,17 @@
+-foo: bar[]
+:bar: foo{}
+baz#: baz,
+more:stuff:
+- http://foo.com
+- -x
+- :x
+- x:x
+- x[
+- x]
+- x{
+- x}
+- ?x
+- x#
+- x,
+- yes
+- Y
